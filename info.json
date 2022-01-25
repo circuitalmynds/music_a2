@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 773.4456999999999,
+    "videos": [
         "The Overload (2005 Remaster)-fNpc8jv7Awk.mp4",
         "Jamby 'El Favo' & Third World Don feat. Jr. Pinchers & Jiggz Di King - Going Up (Offici...-aECJPPw_C2Q.mp4",
         "Duele-rxIbzlHYfyM.mp4",
@@ -71,7 +72,5 @@
         "@Grupo Firme @Luis Angel El Flaco  - Acábame De Matar  - (Official Music Video)-XtqdGi8WGg0.mp4",
         "Cafe Tacvba - Las Flores (MTV Unplugged) (HD)-BPMB4fWRd6U.mp4",
         "Together In Electric Dreams (Extended_2003 Digital Remaster)-L9aVAtG5xwc.mp4"
-    ],
-    "id": "a2",
-    "total_size": 737.6153281249997
+    ]
 }
