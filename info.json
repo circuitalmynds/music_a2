@@ -177,6 +177,13 @@
             "url": "https://github.com/circuitalmynds/music_a2/raw/main/videos/Underworld - Dark And Long EP (1996) HQ FULL EP-TNINebDTscs.mp4"
         },
         {
+            "id": "Tc2NpNqDgPE",
+            "name": "Bob Dylan - Oh, Sister (Official Audio) [Tc2NpNqDgPE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/a2/videos/Bob Dylan - Oh, Sister (Official Audio) [Tc2NpNqDgPE].mp4",
+            "size": 5.2194199999999995,
+            "url": "https://github.com/circuitalmynds/music_a2/raw/main/videos/Bob Dylan - Oh, Sister (Official Audio) [Tc2NpNqDgPE].mp4"
+        },
+        {
             "id": "SYcGqjljz9E",
             "name": "Eskorbuto Las multitudes son un estorbo-SYcGqjljz9E.mp4",
             "path": "/home/alanmatzumiya/Videos/container/a2/videos/Eskorbuto Las multitudes son un estorbo-SYcGqjljz9E.mp4",
@@ -569,5 +576,5 @@
             "url": "https://github.com/circuitalmynds/music_a2/raw/main/videos/el ultimo beso - los apson-FjQ2vnpH6vY.mp4"
         }
     ],
-    "total_size": 939.940141
+    "total_size": 945.159561
 }
